@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving hand" />, I'm Suriya Sureshkumar</h1>
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving hand" />, I'm Ivan Nilash</h1>
 </div>
 
 <h3 align="center">
@@ -28,13 +28,17 @@ Here are some ideas to get you started:
   <tr>
     <td valign="top" width="65%">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Artificial Intelligence & Data Science student passionate about creating meaningful AI solutions
-- 🚀 Exploring the complete AI spectrum — from Machine Learning and MLOps to Large Language Models, RAG pipelines, and NLP-driven applications
-- 💡 Passionate about teaching and simplifying AI concepts through 1:1 mentorship sessions
-- ✍️ Writing about Machine Learning and AI to make complex concepts accessible to everyone
-- 🔭 Currently diving deeper into LLMOps and scalable AI infrastructure
+- 🎓 B.Tech Artificial Intelligence & Data Science student and aspiring AI engineer
+
+- 🚀 Exploring Machine Learning, Data Science, NLP, Large Language Models (LLMs), and Generative AI through hands-on projects
+
+- 💡 Focused on building practical AI solutions and end-to-end systems rather than only theoretical models
+
+- ✍️ Enjoy simplifying and documenting AI/ML concepts to support learning and collaboration
+
+- 🔭 Currently deepening skills in advanced LLM-based systems and scalable AI workflows
 
     <div align="center">
 
